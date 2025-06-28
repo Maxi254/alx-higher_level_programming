@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-str1 = "Holberton"
-str2 = "School"
-str1 = f"{str1} {str2}"
-print(f"Welcome to {str1}!")
+word_first_3 = "Hol"
+word_last_2 = "on"
+middle_word = "olberton"
+print(f"First 3 letters: {word_first_3}")
+print(f"Last 2 letters: {word_last_2}")
+print(f"Middle word: {middle_word}")
